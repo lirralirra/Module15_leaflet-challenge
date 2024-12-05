@@ -1,6 +1,6 @@
 # Module15_leaflet-challenge
 
-only part 1 in this repo
+only part 1 in this repo, in the static/js/logic.js script
 
 creating Earthquake Visualisation by taking data from  USGS GeoJSON Feed (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php),
 
