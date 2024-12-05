@@ -2,7 +2,7 @@
 
 Only part 1 in this repo
 
-In the **static/js/logic.js script**
+In the **static/js/logic.js**
 
 1. creating Earthquake Visualisation by taking data from  USGS GeoJSON Feed (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php),
 
