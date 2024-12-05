@@ -1,1 +1,13 @@
 # Module15_leaflet-challenge
+
+only part 1 in this repo
+
+creating Earthquake Visualisation by taking data from  USGS GeoJSON Feed (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php),
+
+choosing the datasets  'All Earthquakes in the Past Week' from the website, 
+
+then using Leaflet to create a map that plots all the earthquakes from the dataset based on their longitude and latitude, with 
+
+popups that provide additional information about the earthquake when its associated marker is clicked, 
+
+and a legend that provides context for the map data
