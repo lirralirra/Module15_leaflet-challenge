@@ -10,6 +10,6 @@ In the **static/js/logic.js script**
 
 3. then using Leaflet to create a map that plots all the earthquakes from the dataset based on their longitude and latitude, with 
 
-**popups** that provide additional information about the earthquake when its associated marker is clicked, 
+a) **popups** that provide additional information about the earthquake when its associated marker is clicked, and 
 
-and a **legend** that provides context for the map data
+b) a **legend** that provides context for the map data
